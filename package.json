@@ -1,0 +1,21 @@
+{
+  "name": "pliny-finder",
+  "version": "1.0.0",
+  "description": "finding pliny near and far",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "pliny",
+    "beer",
+    "fun",
+    "twitter",
+    "slack"
+  ],
+  "author": "tha boyz",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^4.0.0"
+  }
+}
